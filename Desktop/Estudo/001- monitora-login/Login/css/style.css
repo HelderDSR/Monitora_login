@@ -1,0 +1,35 @@
+body {
+  background: #000000;
+  margin: 0px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.login,
+.senha {
+  color: #e5300b;
+}
+
+.informacoes {
+  background: #121212;
+  color: #a1a1a1;
+}
+
+.botao {
+  background: linear-gradient(to bottom, rgb(255, 106, 0), rgb(255, 0, 0));
+  text-decoration: none;
+  color: #331100;
+  text-transform: uppercase;
+  padding: 15px;
+  position: relative;
+}
+.detalhe {
+  position: absolute;
+}
+
+.texto-esqueceu {
+  color: #b3b3b3;
+}
+.texto-esqueceu span {
+  color: #e5300b;
+}
